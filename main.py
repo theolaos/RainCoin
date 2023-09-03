@@ -81,9 +81,9 @@ def draw_window(current_fps,time1):
     backpack.outline_Area(5,RED)
     score.draw_Label(100,5)
 
-    for i in coins:
-        i.display_current_anim(FPS,current_fps)
-        i.outline_Area(5,RED)
+    for coin in coins:
+        coin.display_current_anim(FPS,current_fps)
+        # coin.outline_Area(5,RED) # for debugging
 
     pygame.display.update()
 
