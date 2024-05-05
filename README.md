@@ -1,6 +1,6 @@
 # RainCoin - Source Code
 
-This is a game created in python using the pygame library alongside with my 2d game engine/framework [TLengPy2](https://github.com/TheooKing/TLengPy2)
+This is a game created in python using the pygame library alongside with my 2d game engine/framework [tleng2](https://github.com/tl-ecosystem/tleng)
 
 The game is compiled into an .exe file, though I am unsure if it still works on windows.
 
